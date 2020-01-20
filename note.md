@@ -6,4 +6,4 @@
 vue.config里面配置文件的别名
 editorconfig文件可以规范团队的编码规则
 
-4.tabbar引入和项目模块规划
+4.tabbar引入和项目模块规划:tabbar -> 路由映射关系

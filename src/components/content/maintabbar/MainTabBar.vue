@@ -18,8 +18,8 @@
 </template>
 
 <script>
-import TabBar from "common/tarbar/TabBar";
-import TabBarItem from "common/tarbar/TabBarItem";
+import TabBar from "components/common/tabbar/TabBar";
+import TabBarItem from "components/common/tabbar/TabBarItem";
 
 export default {
   name: "MainTabBar",
